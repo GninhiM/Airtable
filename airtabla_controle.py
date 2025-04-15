@@ -5,8 +5,8 @@ from fpdf import FPDF
 import io
 
 # CONFIGURATION - À personnaliser
-AIRTABLE_TOKEN = "patXXXXXXXXXXXX"
-BASE_ID = "appXXXXXXXXXXXXXX"
+AIRTABLE_TOKEN = "patoGCf4Aqgb9gCoY.97a5c6d48ac222c39ae4827bf4f879631ba2798931dd59dc7c54f5e19ca8c042"
+BASE_ID = "apppx3bDNs72QXBEk/tblGGZwdi8mOOInIi/viwHnSkC9iCncTxpa?blocks=hide"
 TABLE_NAME = "Backlog"
 
 headers = {
